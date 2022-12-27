@@ -1,0 +1,3 @@
+﻿  ChyrunSofialab11.5.cpp
+C:\Student\ChyrunSofialab11.5\ChyrunSofialab11.5\ChyrunSofialab11.5.cpp(306,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ChyrunSofialab11.5.vcxproj -> C:\Student\ChyrunSofialab11.5\x64\Debug\ChyrunSofialab11.5.exe

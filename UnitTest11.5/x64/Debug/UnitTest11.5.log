@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest11.5.cpp
+C:\Student\ChyrunSofialab11.5\ChyrunSofialab11.5\ChyrunSofialab11.5.cpp(306,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Student\ChyrunSofialab11.5\x64\Debug\UnitTest11.5.lib and object C:\Student\ChyrunSofialab11.5\x64\Debug\UnitTest11.5.exp
+  UnitTest11.5.vcxproj -> C:\Student\ChyrunSofialab11.5\x64\Debug\UnitTest11.5.dll
